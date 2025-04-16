@@ -321,6 +321,8 @@ int main()
 		}
 	}
 
+	delete ptr;
+
 
 	
 
